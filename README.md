@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhokam" alt="jhokam" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Dart & Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jhokam](https://github.com/jhokam)
 
